@@ -1,0 +1,7 @@
+name 'chef_provisioning_vagrant'
+maintainer 'Brandon Raabe'
+maintainer_email 'brandocorp@gmail.com'
+license 'mit'
+description 'Installs/Configures chef_provisioning_vagrant'
+long_description 'Installs/Configures chef_provisioning_vagrant'
+version '0.1.0'
