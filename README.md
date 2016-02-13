@@ -1,4 +1,4 @@
 # chef_provisioning_vagrant
 
-TODO: Enter the cookbook description here.
+An example running Chef Provisioning locally using the Vagrant driver.
 
